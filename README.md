@@ -9,3 +9,5 @@
 new change before merge main into fixhot
 new change before merge main into fixhot 2 this is change from feature
 new change in hotfix after merging feature in main so that main part in hotfix before commit different from main part after commit
+new change before merge main into fixhot 2 this is change from feature
+new change before merge main into fixhot 2 this is change from feature second try
